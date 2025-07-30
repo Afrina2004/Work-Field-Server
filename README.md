@@ -28,7 +28,7 @@ This is the backend API server for the **Work Field** application, built with **
 ---
 
 ## 📁 Project Structure
-
+```bash
 
 work-field-server/
 │
@@ -44,15 +44,12 @@ work-field-server/
 ## Installation
 
 # Clone the repository:
-```bash
 
 https://github.com/Afrina2004/Work-Field-Server.git
 cd work-field-server
 
 # Install dependencies:
-```bash
 npm install
 
 # Start the server:
-```bash
 npm start
