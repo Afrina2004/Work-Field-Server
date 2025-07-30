@@ -45,7 +45,7 @@ work-field-server/
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/work-field-server.git
+https://github.com/Afrina2004/Work-Field-Server.git
 cd work-field-server
 
 # Install dependencies
